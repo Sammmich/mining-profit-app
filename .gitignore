@@ -1,0 +1,29 @@
+# Данные (большой файл, не коммитить в облако)
+mining_block_model.csv
+
+# Результаты EDA (опционально)
+mining_eda_output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Системные
+.DS_Store
+Thumbs.db
