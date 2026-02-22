@@ -1,0 +1,6 @@
+# Для развёртывания на Streamlit Community Cloud (и локального запуска app)
+streamlit>=1.28
+pandas>=1.3
+numpy>=1.20
+scikit-learn>=1.2
+joblib>=1.2
